@@ -10,5 +10,5 @@ Please visit the [media-picker documentation](../bread/formfields/media-picker.m
 
 {% hint style="info" %}
 **Notice on File Upload Size**  
-If you are getting an error when trying to upload large files, this may be a setting that needs to be changed in your PHP. Be sure to check `max_file_upload` and `file_upload_size`
+If you are getting an error when trying to upload large files, this may be a setting that needs to be changed in your PHP. Be sure to check `max_file_uploads` and `upload_max_filesize`
 {% endhint %}
